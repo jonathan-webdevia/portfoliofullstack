@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name":"Développeur fullstack",
+        "date": "2023 - 6 Mois (CDD)",
+        "company": "Montapro",
+        "tags": ["Entrepreunariat", "Relation client", "Gestion de projets", "Techniques commerciales", "UX/UI Design"]
+    },
+    {
+        "id": 2,
+        "name":"Conseiller gestion relation client / commercial",
+        "date": "2024 - 6 Mois (CDD)",
+        "company": "GMF - Covéa",
+        "tags": ["Techniques commerciales", "Communication", "Esprit analytique", "Gestion portefeuille client"]
+    },
+    {
+        "id": 3,
+        "name":"Conseiller gestion relation clients",
+        "date": "2022 - 4 Mois (CDD)",
+        "company": "CPAM - Moselle",
+        "tags": ["Tâches administratives", "Communication", "Esprit analytique"]
+    }
+]
