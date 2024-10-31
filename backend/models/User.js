@@ -1,3 +1,5 @@
+import mongoose from "mongoose";
+
 class User {
   constructor(name, adress, phone, role) {
     this.name = name;

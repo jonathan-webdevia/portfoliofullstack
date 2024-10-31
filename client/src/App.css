@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  border: 0;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nostyle {
+  margin: 0;
+  padding: 0;
+}
+
+/*** bg colors **/
+.bg--primary {
+  background-color: #2E2741;
+}
